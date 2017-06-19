@@ -1,8 +1,1213 @@
 ---
+- curated_id: 788703a4a07e39f5a87d8fa9820e6f66
+  item_date: "2012-04-24 09:52:04"
+  title: 'Official Google Enterprise Blog: Introducing Google Drive, the newest member
+    of Google Apps'
+  url: http://googleforwork.blogspot.com/2012/04/introducing-google-drive-newest-member.html
+  domain: googleforwork.blogspot.com
+  image: ""
+- curated_id: 165e72e3e1330a043232b44cda7b9a09
+  item_date: "2012-05-06 11:03:03"
+  title: '59 New APIs: Intuit, StumbleUpon and FireText'
+  url: http://www.programmableweb.com/news/59-new-apis-intuit-stumbleupon-and-firetext/2012/05/06
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 899c3d5fe26ef8845c6ee88d1104e7fd
+  item_date: "2012-05-08 23:47:54"
+  title: Google and Oracle Enter Round Two of Heavyweight Legal Fight
+  url: http://www.techmeme.com/120508/p73
+  domain: www.techmeme.com
+  image: ""
+- curated_id: 79aaa77a9e10e25cf7d73a153c881d04
+  item_date: "2012-05-09 11:33:10"
+  title: '42 Environment APIs: AMEE, Brighter Planet and Carma'
+  url: http://www.programmableweb.com/news/42-environment-apis-amee-brighter-planet-and-carma/2012/05/09
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 5b78ff326b2a868debbacddd749c4ad5
+  item_date: "2013-02-27 00:00:00"
+  title: Using Mixpanel to track effectiveness of Search on your web site
+  url: https://blog.mixpanel.com/2013/02/27/using-mixpanel-to-track-effectiveness-of-search-on-your-web-site/
+  domain: blog.mixpanel.com
+  image: ""
+- curated_id: 4150d8d0fae77aa3f543470fe3030347
+  item_date: "2013-03-05 16:32:55"
+  title: URL Search Tool!
+  url: http://commoncrawl.org/2013/03/url-search-tool/
+  domain: commoncrawl.org
+  image: ""
+- curated_id: cbce0ffc971fd1a0f6eb514c56a5a083
+  item_date: "2013-04-11 00:00:00"
+  title: Drive One down the Fairway with Wolfram
+  url: http://blog.wolframalpha.com/2013/04/11/drive-one-down-the-fairway-with-wolframalphas-golf-data/
+  domain: blog.wolframalpha.com
+  image: ""
+- curated_id: ebce633b8320d77e878721020067d93a
+  item_date: "2013-04-11 00:00:00"
+  title: Octopart API V3
+  url: https://blog.octopart.com/archives/2013/4/octopart-api-v3
+  domain: blog.octopart.com
+  image: ""
+- curated_id: 135944832baa86ed1d596f75fa421cc7
+  item_date: "2013-04-12 00:00:00"
+  title: 'Moodstocks on-device image recognition: PhoneGap plugin + Sencha Touch demo'
+  url: https://moodstocks.com/blog/article/moodstocks-on-device-image-recognition-phonegap-plugin-sencha-touch-demo/
+  domain: moodstocks.com
+  image: ""
+- curated_id: c50be42b5363c901ab3fb82ef5e91f7e
+  item_date: "2013-04-16 00:00:00"
+  title: Introducing the Wolfram Plants Reference App
+  url: http://blog.wolframalpha.com/2013/04/16/introducing-the-wolfram-plants-reference-app/
+  domain: blog.wolframalpha.com
+  image: ""
+- curated_id: eb3fd728530d1e464a6ff0f797ae123b
+  item_date: "2013-04-18 00:00:00"
+  title: Google AdMob SDK v6.4.1 Released for Android and iOS
+  url: https://www.blogger.com/feeds/7815614485808579332/posts/default/1795379504575136104/v=2
+  domain: www.blogger.com
+  image: ""
+- curated_id: 68684664e58cff1fec95d7262e20c655
+  item_date: "2013-04-24 00:00:00"
+  title: Data Science of the Facebook World
+  url: http://blog.wolframalpha.com/2013/04/24/data-science-of-the-facebook-world/
+  domain: blog.wolframalpha.com
+  image: ""
+- curated_id: 95a1d73a50afce779ffdd03c72b34cb5
+  item_date: "2013-04-29 00:00:00"
+  title: Facebook translates natural language interface under Graph Search
+  url: http://www.zdnet.com/article/facebook-translates-natural-language-interface-under-graph-search/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 41153e0f031d424ae8340d0edecf7b14
+  item_date: "2013-05-06 00:00:00"
+  title: Repository Search on all Repositories
+  url: https://github.com/blog/1492-repository-search-on-all-repositories
+  domain: github.com
+  image: ""
+- curated_id: ee6a94b8246de34f0e26deb52aa392a8
+  item_date: "2013-05-08 00:00:00"
+  title: Klout dips into QA and local commerce with launch of new questions feature
+  url: https://gigaom.com/2013/05/08/klout-dips-into-qa-and-local-commerce-with-launch-of-new-questions-feature/
+  domain: gigaom.com
+  image: ""
+- curated_id: 644eb4754d2e9d7528b7528c4a1c04ac
+  item_date: "2013-05-21 00:00:00"
+  title: An Inside Look at Type Ahead Search in Evernote
+  url: http://blog.evernote.com/tech/2013/05/21/an-inside-look-at-type-ahead-search-in-evernote/
+  domain: blog.evernote.com
+  image: ""
+- curated_id: 3e21238689ebfa67860c58b837efca2c
+  item_date: "2013-05-22 00:00:00"
+  title: 'Making the kooaba API easier to use: fresh sample code and documentation'
+  url: http://blog.kooaba.ch/2013/05/making-the-kooaba-api-easier-to-use-fresh-sample-code-and-documentation/
+  domain: blog.kooaba.ch
+  image: ""
+- curated_id: 7efc45613052ed0d61184e5cd1a1d261
+  item_date: "2013-05-22 00:00:00"
+  title: 'Introducing Truecaller API: Search among over 600 million phone numbers
+    worldwide'
+  url: http://www.3scale.net/2013/05/truecaller-api-search-among-over-600-million-phone-numbers-worldwide/
+  domain: www.3scale.net
+  image: ""
+- curated_id: 7eb7255229678d66454f8ae9e57a0075
+  item_date: "2013-05-31 00:00:00"
+  title: 28.io and JSONiq
+  url: http://nosql.mypopescu.com/post/51831997161/28io-and-jsoniq#_=_
+  domain: nosql.mypopescu.com
+  image: ""
+- curated_id: 1926a398093e47c3c0d98765f74f0192
+  item_date: "2013-06-17 00:00:00"
+  title: 'Wolfram|Alpha Apps: Your Guide to Summer'
+  url: http://blog.wolframalpha.com/2013/06/17/wolframalpha-apps-your-guide-to-summer/
+  domain: blog.wolframalpha.com
+  image: ""
+- curated_id: 263c808a28bd10409a5279b89662cd6e
+  item_date: "2013-06-19 00:00:00"
+  title: 'API Update: Compliance Documents now available through the Octopart API'
+  url: http://octopart.com/blog/archives/2013/6/api-update%253A-compliance-documents-now-available-through-the-octopart-api
+  domain: octopart.com
+  image: ""
+- curated_id: ee3c5a11ce360a7bbf5572e10fa6961d
+  item_date: "2013-06-24 00:00:00"
+  title: 'Analysis: Whos Using The API?'
+  url: http://octopart.com/blog/archives/2013/6/analysis%253A-who%2527s-using-the-api%253F
+  domain: octopart.com
+  image: ""
+- curated_id: 5cfdb160c697c4a97e78b9a9d3bd3ca0
+  item_date: "2013-06-24 00:00:00"
+  title: Get ready for tracking with image corners
+  url: http://www.moodstocks.com/2013/06/24/get-ready-for-tracking-with-image-corners/
+  domain: www.moodstocks.com
+  image: ""
+- curated_id: 403e8da56e30f81cdf781228f77df542
+  item_date: "2013-06-25 00:00:00"
+  title: Introducing the Royal Engineers Museum
+  url: http://blog.europeana.eu/2013/06/introducing-the-royal-engineers-museum/
+  domain: blog.europeana.eu
+  image: ""
+- curated_id: 851aa59a19d1455cb38d6a770b093626
+  item_date: "2013-06-26 00:00:00"
+  title: How to insert copyright information metadata
+  url: http://en.safecreative.net/2013/06/26/copyright-information-metadata/
+  domain: en.safecreative.net
+  image: ""
+- curated_id: 5101af2d3d58b0aa470ee8704c0629fa
+  item_date: "2013-07-03 00:00:00"
+  title: Digging into Words with Wolfram|Alpha
+  url: http://blog.wolframalpha.com/2013/07/03/digging-into-words-with-wolframalpha/
+  domain: blog.wolframalpha.com
+  image: ""
+- curated_id: 287eff844fb18f80fe4eaa7c71bef215
+  item_date: "2013-07-07 00:00:00"
+  title: Search over history and notes
+  url: http://blog.xero.com/2013/07/search-over-history-and-notes/
+  domain: blog.xero.com
+  image: ""
+- curated_id: 7b693d24ff0f3279dd07bd26cd8cc18e
+  item_date: "2013-07-08 00:00:00"
+  title: 'Daily Report: Facebook Rolls Out a Powerful Search Tool'
+  url: http://bits.blogs.nytimes.com/2013/07/08/daily-report-facebook-rolls-out-a-powerful-search-tool/
+  domain: bits.blogs.nytimes.com
+  image: ""
+- curated_id: fccd7cf057787797b6b2e453b0bc9f3b
+  item_date: "2013-07-11 00:00:00"
+  title: Europeana Open Culture App?s Images of the Past
+  url: http://blog.europeana.eu/2013/07/europeana-open-culture-apps-images-of-the-past/
+  domain: blog.europeana.eu
+  image: ""
+- curated_id: ac7686455c75cb71f172cb2a778853a1
+  item_date: "2013-08-05 00:00:00"
+  title: Introducing the valiha
+  url: http://blog.europeana.eu/2013/08/introducing-the-valiha/
+  domain: blog.europeana.eu
+  image: ""
+- curated_id: 8e4631df749d586b8edb2a799b47ffae
+  item_date: "2013-08-06 00:00:00"
+  title: ""
+  url: http://blog.europeana.eu/2013/08/featured-partner-bibliotheque-nationale-de-france/
+  domain: blog.europeana.eu
+  image: ""
+- curated_id: 00359a1d3961694dff77bf3a0d257ea7
+  item_date: "2013-08-07 00:00:00"
+  title: TextWise API Services Temporarily Unavailable August 18  25, 2013
+  url: http://blog.textwise.com/2013/08/07/textwise-api-services-temporarily-unavailable-august-18-25-2013/
+  domain: blog.textwise.com
+  image: ""
+- curated_id: 2532442d74c321f948aa4bd051a8797d
+  item_date: "2013-08-19 00:00:00"
+  title: What?s new in Europeana?
+  url: http://blog.europeana.eu/2013/08/whats-new-in-europeana/
+  domain: blog.europeana.eu
+  image: ""
+- curated_id: 28fdec8503caccc7486a89a3b23bbc4a
+  item_date: "2013-09-24 00:00:00"
+  title: Data Transparency
+  url: https://octopart.com/blog/archives/2013/9/data-transparency
+  domain: octopart.com
+  image: ""
+- curated_id: 71cf00f5bc67dff10d3895a390f67654
+  item_date: "2013-09-26 00:00:00"
+  title: 'Gnip Introduces Search API for Twitter: Instant and Complete Access to Recent
+    Twitter Data'
+  url: https://blog.gnip.com/search-api-for-twitter/
+  domain: blog.gnip.com
+  image: ""
+- curated_id: 55577361a672ed17bdda4ca1cf04d644
+  item_date: "2013-09-30 00:00:00"
+  title: Use rsyslog and ElasticSearch for Powerful Log Aggregation
+  url: https://puppet.com/blog/use-rsyslog-and-elasticsearch-for-powerful-log-aggregation
+  domain: puppet.com
+  image: ""
+- curated_id: 1d6bcc07581c9e6dd9f4d80c7b13e7ca
+  item_date: "2013-10-20 00:00:00"
+  title: Links to Manufacturer Webpages and Free Sample Order Forms Are Now Available
+    in the API
+  url: https://blog.octopart.com/archives/2013/10/links-to-manufacturer-webpages-and-free-sample-order-forms-are-now-available-in-the-api
+  domain: blog.octopart.com
+  image: ""
+- curated_id: d76b155a1f25c5e51ab55652573ed25d
+  item_date: "2013-10-23 00:00:00"
+  title: ""
+  url: https://blog.octopart.com/archives/2013/10/api-spotlight-bomarchitect
+  domain: blog.octopart.com
+  image: ""
+- curated_id: ab6b3a85b523c540a8acc8787af686b5
+  item_date: "2013-10-27 00:00:00"
+  title: 3D Models now in the API
+  url: https://blog.octopart.com/archives/2013/10/3d-models-now-in-the-api
+  domain: blog.octopart.com
+  image: ""
+- curated_id: 0db618de315fa4f32ff1904dbaebb4ec
+  item_date: "2013-10-28 00:00:00"
+  title: AdWords API v201302 Sunset - 2 weeks remaining
+  url: https://www.blogger.com/feeds/7815614485808579332/posts/default/6843712868948802600/v=2
+  domain: www.blogger.com
+  image: ""
+- curated_id: 580371b984c17a27fa05f88098d1f62d
+  item_date: "2013-10-28 00:00:00"
+  title: New AdSense Data in the Core Reporting API
+  url: https://www.blogger.com/feeds/7815614485808579332/posts/default/8952878859455671258/v=2
+  domain: www.blogger.com
+  image: ""
+- curated_id: dbdfbcd37ca704ea42974445abdd2c83
+  item_date: "2013-10-31 00:00:00"
+  title: Upgrade to the new Google Mobile Ads SDK for Android
+  url: https://www.blogger.com/feeds/7815614485808579332/posts/default/1646446311565016863/v=2
+  domain: www.blogger.com
+  image: ""
+- curated_id: eeba1133771830348081ca7b4e000b66
+  item_date: "2013-11-04 00:00:00"
+  title: Discover Europeana?s new content
+  url: http://blog.europeana.eu/2013/11/discover-europeanas-new-content/
+  domain: blog.europeana.eu
+  image: ""
+- curated_id: 0476d14d2cdf1f418b4bca8c8fb9a34f
+  item_date: "2013-11-07 00:00:00"
+  title: 'Getting to know AWQL: It?s like SQL for AdWords'
+  url: https://www.blogger.com/feeds/7815614485808579332/posts/default/7384247851924100780
+  domain: www.blogger.com
+  image: ""
+- curated_id: 68a7d4f98fe59fb8cb5666151f16fd4e
+  item_date: "2013-11-21 00:00:00"
+  title: Wolfram Language and Mathematica Now Available on Every Raspberry Pi
+  url: http://blog.wolframalpha.com/2013/11/21/wolfram-language-and-mathematica-now-available-with-every-raspberry-pi/
+  domain: blog.wolframalpha.com
+  image: ""
+- curated_id: 20e4dea30ad2cddd5cb62c848f5f5107
+  item_date: "2013-11-26 00:00:00"
+  title: Europeana celebrates 5 years and 30 million objects
+  url: http://blog.europeana.eu/2013/11/europeana-celebrates-5-years-and-30-million-objects/
+  domain: blog.europeana.eu
+  image: ""
+- curated_id: e431fd4cd862e813a966413963fc5f2e
+  item_date: "2013-12-10 00:00:00"
+  title: AdSense Management API v1.4 released
+  url: https://www.blogger.com/feeds/7815614485808579332/posts/default/8750135728037955356
+  domain: www.blogger.com
+  image: ""
+- curated_id: 06e5482f336414faa89071c1edf48ab9
+  item_date: "2013-12-10 00:00:00"
+  title: Octopart API V3 is Ready for Production!
+  url: https://octopart.com/blog/archives/2013/12/octopart-api-v3-is-ready-for-production%2521
+  domain: octopart.com
+  image: ""
+- curated_id: 6815372bcc28f2b7b08f2b71d12213e4
+  item_date: "2013-12-18 00:00:00"
+  title: MoMo - Ensuring Reliable Access To Water In The Developing World
+  url: https://blog.octopart.com/archives/2013/12/momo-ensuring-reliable-access-to-water-in-the-developing-world
+  domain: blog.octopart.com
+  image: ""
+- curated_id: c3b3af4420a56c2fec18724be5740603
+  item_date: "2014-01-09 00:00:00"
+  title: Ads client libraries are now on GitHub!
+  url: https://www.blogger.com/feeds/7815614485808579332/posts/default/1099761305347670662
+  domain: www.blogger.com
+  image: ""
+- curated_id: ab642cc4db5794eccaf111e6db65b885
+  item_date: "2014-01-31 00:00:00"
+  title: Hardware Hackathons Are Hard
+  url: https://blog.octopart.com/archives/2014/2/hardware-hackathons-are-hard
+  domain: blog.octopart.com
+  image: ""
+- curated_id: ac459261bdd3b7cd41482c3214ffcd40
+  item_date: "2014-03-03 00:00:00"
+  title: Announcing v201403 of the DFP API
+  url: https://www.blogger.com/feeds/7815614485808579332/posts/default/4335505667928575709
+  domain: www.blogger.com
+  image: ""
+- curated_id: 35bd308e1ccc7a28bd66e59fd7ec5a19
+  item_date: "2014-05-29 00:00:00"
+  title: Legacy AdMob Sunset and Legacy SDK Deprecation Reminder
+  url: https://www.blogger.com/feeds/7815614485808579332/posts/default/8254169381649273717
+  domain: www.blogger.com
+  image: ""
+- curated_id: e768c45797c47bf217f612438f7a0108
+  item_date: "2014-05-30 00:00:00"
+  title: Changes to the IMA SDK for iOS
+  url: https://www.blogger.com/feeds/7815614485808579332/posts/default/5031968498788541624
+  domain: www.blogger.com
+  image: ""
+- curated_id: cc86756ec5d640944c6f5acb05ce0784
+  item_date: "2014-06-02 00:00:00"
+  title: How proactive release of public records could help lower costs
+  url: http://blog.everyblock.com/2014/06/02/how-proactive-release-of-public-records-could-help-lower-costs/
+  domain: blog.everyblock.com
+  image: ""
+- curated_id: d31ea933cae00d8cc40f6b528d48287f
+  item_date: "2014-06-04 00:00:00"
+  title: Updated DoubleClick Ad Exchange Buyer REST API examples to get you started
+  url: https://www.blogger.com/feeds/7815614485808579332/posts/default/8837317805942116479
+  domain: www.blogger.com
+  image: ""
+- curated_id: 43f51e726f0927e60008886f0b23898a
+  item_date: "2014-06-06 00:00:00"
+  title: The new, improved Content API for Shopping
+  url: https://www.blogger.com/feeds/7815614485808579332/posts/default/8415895516499954486
+  domain: www.blogger.com
+  image: ""
+- curated_id: 9667af49dd5afaa7f5a1093a2806a48a
+  item_date: "2014-06-11 00:00:00"
+  title: Using Kimono Labs to Scrape the Web for Free
+  url: https://moz.com/blog/web-scraping-with-kimono-labs
+  domain: moz.com
+  image: ""
+- curated_id: 032be2b0c21f0002ee2c779d9944b197
+  item_date: "2014-06-16 00:00:00"
+  title: Which States and Cities Have Chief Data Officers?
+  url: http://blog.everyblock.com/2014/06/16/which-states-and-cities-have-chief-data-officers/
+  domain: blog.everyblock.com
+  image: ""
+- curated_id: 1451a201abd584a276413eea1b5aba66
+  item_date: "2014-06-26 00:00:00"
+  title: Open Data and the World Cup
+  url: http://blog.everyblock.com/2014/06/26/open-data-and-the-world-cup/
+  domain: blog.everyblock.com
+  image: ""
+- curated_id: f72f012417ac7e1bb9d97e2e92925fa8
+  item_date: "2014-07-14 00:00:00"
+  title: Code For America Fellowship
+  url: http://blog.everyblock.com/2014/07/14/code-for-america-fellowship/
+  domain: blog.everyblock.com
+  image: ""
+- curated_id: f90837c02496cc63980f7801cc7b878d
+  item_date: "2014-07-15 00:00:00"
+  title: Socrata launches the Open Data Network
+  url: http://blog.everyblock.com/2014/07/15/socrata-launches-the-open-data-network/
+  domain: blog.everyblock.com
+  image: ""
+- curated_id: 3d7e50c39d7ed8cf6aa86e16b239dd86
+  item_date: "2014-07-15 00:00:00"
+  title: Changes to Ads API .NET client library
+  url: https://www.blogger.com/feeds/7815614485808579332/posts/default/2421484645093757924
+  domain: www.blogger.com
+  image: ""
+- curated_id: 7dd7ed0b1626cb9f5cebd15a1c8e7c65
+  item_date: "2014-07-17 00:00:00"
+  title: New Open Data Sets in Chicago
+  url: http://blog.everyblock.com/2014/07/17/new-public-data-chicago/
+  domain: blog.everyblock.com
+  image: ""
+- curated_id: a1b88ecdaf4fcd0c852b3e4d6c6db0a8
+  item_date: "2014-07-18 00:00:00"
+  title: Generating the Snippet Status Report with Ad Exchange Buyer REST API
+  url: https://www.blogger.com/feeds/7815614485808579332/posts/default/1041832551769036194
+  domain: www.blogger.com
+  image: ""
+- curated_id: 6d5d6a4fe44b18edf877e076c7444379
+  item_date: "2014-07-22 00:00:00"
+  title: Using Civic Tech to help with City Zoning
+  url: http://blog.everyblock.com/2014/07/22/using-civic-tech-to-help-with-city-zoning/
+  domain: blog.everyblock.com
+  image: ""
+- curated_id: 99055e55b6bc6316c1df40d598d7b006
+  item_date: "2014-07-23 00:00:00"
+  title: AdWords API - Upgrading to account-level location extensions
+  url: https://www.blogger.com/feeds/7815614485808579332/posts/default/5090902228403039678
+  domain: www.blogger.com
+  image: ""
+- curated_id: fe89b93661a18ed585a209b73426218c
+  item_date: "2014-07-23 00:00:00"
+  title: 'Google Media Framework: Making online video simple'
+  url: https://www.blogger.com/feeds/7815614485808579332/posts/default/3765880848734629253
+  domain: www.blogger.com
+  image: ""
+- curated_id: 56ea9c4da0e5746efa764c4e45c686c6
+  item_date: "2014-07-28 00:00:00"
+  title: 'New in Chicago: Bike Parking Request Map'
+  url: http://blog.everyblock.com/2014/07/28/new-in-chicago-bike-parking-request-map/
+  domain: blog.everyblock.com
+  image: ""
+- curated_id: 8a2ff39a1d25accbcf634ea159bcf062
+  item_date: "2014-07-29 00:00:00"
+  title: 'AdWords API Workshops: Feedback in Action!'
+  url: https://www.blogger.com/feeds/7815614485808579332/posts/default/8091141255331698954
+  domain: www.blogger.com
+  image: ""
+- curated_id: 4aa2707fd3b8268f2dcf8b4caf7be223
+  item_date: "2014-08-04 00:00:00"
+  title: How committed are the G7 countries to open data?
+  url: http://blog.everyblock.com/2014/08/04/how-committed-are-the-g7-countries-to-open-data/
+  domain: blog.everyblock.com
+  image: ""
+- curated_id: e7d994574fffb31fb1d5f5711779694f
+  item_date: "2014-08-06 00:00:00"
+  title: Urban Apps and Maps in Philadelphia
+  url: http://blog.everyblock.com/2014/08/06/urban-apps-and-maps-in-philadelphia/
+  domain: blog.everyblock.com
+  image: ""
+- curated_id: aa3563acdc18a51aef0220b5763cedb9
+  item_date: "2014-08-07 00:00:00"
+  title: 'Google Apps Add-On: Paulos Open Source Project'
+  url: https://blog.octopart.com/archives/2014/8/google-apps-add-on-paulos-open-source-project
+  domain: blog.octopart.com
+  image: ""
+- curated_id: c3f0cb6fb4824542c397932687a8c50f
+  item_date: "2014-08-12 00:00:00"
+  title: Legacy Ads Python Client Library to sunset on January 5th, 2015
+  url: https://www.blogger.com/feeds/7815614485808579332/posts/default/353616053780143715
+  domain: www.blogger.com
+  image: ""
+- curated_id: 00aabc97cb2e21292fb2815582371160
+  item_date: "2014-08-19 00:00:00"
+  title: Knight-Mozilla Fellows take on era of ?no excuses,? public data demands
+  url: http://blog.everyblock.com/2014/08/19/knight-mozilla-fellows-take-on-era-of-no-excuses-public-data-demands/
+  domain: blog.everyblock.com
+  image: ""
+- curated_id: 4028f7626f3446cc122eed8ab9fc4a2d
+  item_date: "2014-08-20 00:00:00"
+  title: 'AdWords API: Changes to how we report mobile click-to-call data'
+  url: https://www.blogger.com/feeds/7815614485808579332/posts/default/252959647039953373
+  domain: www.blogger.com
+  image: ""
+- curated_id: 8997603dedb7bcbeb3bc8751d3843c2c
+  item_date: "2014-08-28 00:00:00"
+  title: A Year in a Chemistry Developer?s Shoes
+  url: http://blog.wolframalpha.com/2014/08/28/a-year-in-a-chemistry-developers-shoes/
+  domain: blog.wolframalpha.com
+  image: ""
+- curated_id: 97857b09de14ab5ee76c74de1e3bf50b
+  item_date: "2014-10-01 00:00:00"
+  title: Datafiniti re-architects its web-crawler engine and moves to the cloud
+  url: https://gigaom.com/2014/10/01/datafiniti-re-architects-its-web-crawler-engine-and-moves-to-the-cloud/
+  domain: gigaom.com
+  image: ""
 - curated_id: a59eee0198ede2fc2a9cfe3deff74662
   item_date: "2015-01-07 00:00:00"
   title: 'Factual Featured Partner: Snips'
   url: http://blog.factual.com
   domain: blog.factual.com
+  image: ""
+- curated_id: 00371ef4fd842ec380ecae495627d43e
+  item_date: "2015-01-28 00:00:00"
+  title: NEST 1.4 released
+  url: https://www.elastic.co/blog/nest-1-4-released
+  domain: www.elastic.co
+  image: ""
+- curated_id: 6b76251b07276a52ddde860dd401606a
+  item_date: "2015-01-28 00:00:00"
+  title: This week in Elasticsearch
+  url: https://www.elastic.co/blog/2015-01-28this-week-in-elasticsearch
+  domain: www.elastic.co
+  image: ""
+- curated_id: 242842e0f62f2b5566f1a78040861ff5
+  item_date: "2015-04-08 00:00:00"
+  title: Announcing the Common Crawl Index!
+  url: http://blog.commoncrawl.org/2015/04/announcing-the-common-crawl-index/
+  domain: blog.commoncrawl.org
+  image: ""
+- curated_id: 51decad7789b447f3a81a41ed562d79b
+  item_date: "2015-04-20 00:00:00"
+  title: Google now lets you export your search history
+  url: http://venturebeat.com/2015/04/20/google-now-lets-you-export-your-search-history/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 995570ed9b74bd188c0e259cdadb6946
+  item_date: "2015-04-22 00:00:00"
+  title: Google Enables JSON Search History Downloads
+  url: http://www.programmableweb.com/news/google-enables-json-search-history-downloads/2015/04/22
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: d74fc5e325df78caa335d48b9a1e1c5b
+  item_date: "2015-04-30 00:00:00"
+  title: Full-Text Search is now available for preview in Azure SQL Database
+  url: http://azure.microsoft.com/blog/2015/04/30/full-text-search-is-now-available-for-preview-in-azure-sql-database/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: c4cd4d7d5e19e01a63d34184a742e3b4
+  item_date: "2015-05-01 00:00:00"
+  title: Introduction to Elasticsearch scripting
+  url: http://blog.qbox.io/introduction-to-elasticsearch-scripting
+  domain: blog.qbox.io
+  image: ""
+- curated_id: 5037f6ef8911e4f653641da6ef836ecd
+  item_date: "2015-05-04 00:00:00"
+  title: 'Webhose.io API Adds Viral Post Search Capabilities '
+  url: http://www.programmableweb.com/news/webhose.io-api-adds-viral-post-search-capabilities/brief/2015/05/04
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 603c005dd6429beb2efd721a2ca76b79
+  item_date: "2015-05-05 00:00:00"
+  title: Peruse is a new natural-language search tool for your Dropbox and Box files
+  url: http://venturebeat.com/2015/05/05/peruse-launch/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 1966e6f6dcacdd7af742f6ae0b91dece
+  item_date: "2015-05-07 00:00:00"
+  title: We Tested How Googlebot Crawls Javascript And Heres What We Learned
+  url: http://searchengineland.com/tested-googlebot-crawls-javascript-heres-learned-220157
+  domain: searchengineland.com
+  image: ""
+- curated_id: e48dc4bd2812933ce52e722dc54f221d
+  item_date: "2015-05-08 00:00:00"
+  title: Sensay Replaces the Search Engine with Human Conversation Using Twilio SMS
+  url: https://www.twilio.com/blog/2015/05/sensay-replaces-the-search-engine-with-human-conversation-using-twilio-sms.html
+  domain: www.twilio.com
+  image: ""
+- curated_id: ef26a1931edbaad47a870f78013edbec
+  item_date: "2015-05-14 00:00:00"
+  title: Venom and Your Qbox Elasticsearch Instances
+  url: http://blog.qbox.io/venom-and-your-qbox-elaticsearch-instances
+  domain: blog.qbox.io
+  image: ""
+- curated_id: 6677877d8b12716b3a570ff8fa800e6d
+  item_date: "2015-05-20 00:00:00"
+  title: Big data search startup Maana launches with $14.2M
+  url: https://hasquotes.wordpress.com/2015/05/20/big-data-search-startup-maana-launches-with-14-2m/
+  domain: hasquotes.wordpress.com
+  image: ""
+- curated_id: 3a45b3723a8ef3512eeb3df25edbf10f
+  item_date: "2015-05-20 00:00:00"
+  title: Elasticsearch ? A High-Performance Full-Text Search Engine
+  url: https://qbox.io/blog/elasticsearch-as-a-high-performance-full-text-search-engine
+  domain: qbox.io
+  image: ""
+- curated_id: 5009563a030035eea6de9cd1c396fdfc
+  item_date: "2015-05-21 00:00:00"
+  title: Algolia Strengthens API Market Position With UX Search
+  url: http://www.programmableweb.com/news/algolia-strengthens-api-market-position-ux-search/2015/05/21
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 07820e67372e1d522dd3feece182d6fa
+  item_date: "2015-05-21 00:00:00"
+  title: Twitter is back in Google?s search results
+  url: http://royal.pingdom.com/2015/05/21/twitter-back-google-search-results/
+  domain: royal.pingdom.com
+  image: ""
+- curated_id: bcd4fbee4e317f56ed4ba7e51e9fcb2b
+  item_date: "2015-05-22 00:00:00"
+  title: Google Search Console now shows you how well your in-app content is performing
+  url: http://thenextweb.com/dd/2015/05/22/google-search-console-now-shows-you-how-well-your-in-app-content-is-performing/
+  domain: thenextweb.com
+  image: ""
+- curated_id: e7fddadce0f45334dc98b9c6a1f23abe
+  item_date: "2015-05-22 00:00:00"
+  title: Webhose.io API Now Features Similarity Search
+  url: http://www.programmableweb.com/news/webhose.io-api-now-features-similarity-search/brief/2015/05/22
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: b568f6f2c8d3ef1e3ada5c451386fcb5
+  item_date: "2015-05-25 00:00:00"
+  title: configuring similarity algorithms elasticsearch
+  url: http://stackoverflow.com/questions/30461031/configuring-similarity-algorithms-elasticsearch
+  domain: stackoverflow.com
+  image: ""
+- curated_id: c40e155a7b2c4498ebe9df959f7e125d
+  item_date: "2015-05-26 00:00:00"
+  title: Tools for Monitoring Elasticsearch Performance
+  url: https://qbox.io/blog/tools-for-monitoring-elasticsearch-performance
+  domain: qbox.io
+  image: ""
+- curated_id: a905c640ed06f48e05b4052bcc9813ab
+  item_date: "2015-05-27 00:00:00"
+  title: Google Search starts indexing iOS apps
+  url: http://venturebeat.com/2015/05/27/google-search-starts-indexing-ios-apps/
+  domain: venturebeat.com
+  image: ""
+- curated_id: a179653e6bab4eab5051f7c54b224ce4
+  item_date: "2015-05-28 16:15:32"
+  title: Indexing Common Crawl Metadata on Amazon EMR Using Cascading and Elasticsearch
+  url: http://blogs.aws.amazon.com/bigdata/post/TxC0CXZ3RPPK7O/Indexing-Common-Crawl-Metadata-on-Amazon-EMR-Using-Cascading-and-Elasticsearch
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: e78daa9e4c6ab627d7307de206bddd88
+  item_date: "2015-06-01 00:00:00"
+  title: Illuminating the jargon of criminal justice data with Elasticsearch
+  url: http://sunlightfoundation.com/blog/2015/06/02/illuminating-the-jargon-of-criminal-justice-data-with-elasticsearch/
+  domain: sunlightfoundation.com
+  image: ""
+- curated_id: e7bb44e432e7aed2a3d71310eaf3383c
+  item_date: "2015-06-02 00:00:00"
+  title: Full Text Search and Analytics for Websites and Multiple Data Sources
+  url: http://www.searchblox.com/full-text-search-and-analytics-for-websites-and-multiple-data-sources
+  domain: www.searchblox.com
+  image: ""
+- curated_id: 8d3d624df8858785de47b5d516cd273b
+  item_date: "2015-06-08 00:00:00"
+  title: Apple Deep Links Siri Into Apps To Improve Search
+  url: http://www.mediapost.com/publications/article/251518/apple-deep-links-siri-into-apps-to-improve-search.html
+  domain: www.mediapost.com
+  image: ""
+- curated_id: f37a42f79d1c09742155a7cb70434509
+  item_date: "2015-06-08 00:00:00"
+  title: Apple?s new search API means war for Google
+  url: http://thenextweb.com/opinion/2015/06/08/apples-new-search-api-means-war-for-google/
+  domain: thenextweb.com
+  image: ""
+- curated_id: ac2ee777913a916b12ac45c5c3b856af
+  item_date: "2015-06-09 00:00:00"
+  title: ' Apple Search API Heats Up Google Deep Linking Battle'
+  url: http://www.programmableweb.com/news/apple-search-api-heats-google-deep-linking-battle/2015/06/09
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 3c257276c75023838bd7fc2bae489442
+  item_date: "2015-06-19 00:00:00"
+  title: The Rise of DuckDuckGo
+  url: http://www.fastcompany.com/3046943/how-duckduckgo-rode-a-wave-of-post-snowden-anxiety-to-massive-growth
+  domain: www.fastcompany.com
+  image: ""
+- curated_id: 5c85241678b793e229a96b0a9c218e7e
+  item_date: "2015-06-22 00:00:00"
+  title: 'Elasticsearch and elasticity: building a search for government documents'
+  url: https://blog.scraperwiki.com/2015/06/elasticsearch-and-elasticity-building-a-search-for-government-documents/
+  domain: blog.scraperwiki.com
+  image: ""
+- curated_id: e3852cfab5b46283822988b80763132c
+  item_date: "2015-07-01 00:00:00"
+  title: 'Inside Azure Search: Chaos Engineering'
+  url: http://azure.microsoft.com/blog/2015/07/01/inside-azure-search-chaos-engineering/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: e5fe3b88a530c1438a86a9531f9eaa65
+  item_date: "2015-08-20 00:00:00"
+  title: 'First Do No Harm: Four Things You Should Never do with Elasticsearch'
+  url: http://blog.qbox.io/important-things-never-do-with-elasticsearch
+  domain: blog.qbox.io
+  image: ""
+- curated_id: 36f92c566d5b0656c169e2e5ca8810d3
+  item_date: "2015-08-20 00:00:00"
+  title: New Bing API Adds Context-Aware Search to Mobile Apps
+  url: http://www.eweek.com/mobile/new-bing-api-adds-context-aware-search-to-mobile-apps.html
+  domain: www.eweek.com
+  image: ""
+- curated_id: e5c1a35f392ee7b37dc3fac5ba8f1101
+  item_date: "2015-08-26 00:00:00"
+  title: Introducing OpenCorporates Advanced Search ? more powerful than ever before
+  url: https://blog.opencorporates.com/2015/08/26/introducing-opencorporates-advanced-search-powerful-than-ever-before/
+  domain: blog.opencorporates.com
+  image: ""
+- curated_id: a249c96703ff1dede1bf3f4caca60282
+  item_date: "2015-08-28 00:00:00"
+  title: Search startup Qbox raises $2.4M as it develops ?Project Gossamer?
+  url: http://venturebeat.com/2015/08/28/search-startup-qbox-raises-2-4m-as-it-develops-project-gossamer/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 9f5ca91ce6388c93fec961df490bf78c
+  item_date: "2015-09-02 00:00:00"
+  title: Google CSV Download Scripts Replaced by Search Analytics API
+  url: http://www.programmableweb.com/news/google-csv-download-scripts-replaced-search-analytics-api/brief/2015/09/02
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 8771e1632c5cf28370bc150c19a3028e
+  item_date: "2015-11-25 15:40:55"
+  title: E-commerce search with instantsearch.js by Algolia
+  url: https://community.algolia.com/instantsearch.js/examples/e-commerce/
+  domain: community.algolia.com
+  image: ""
+- curated_id: 0121c594e3857c76a35a5fa7f93d0b23
+  item_date: "2015-12-08 00:00:00"
+  title: 'SQuery: Semantic Database Search'
+  url: http://blog.alchemyapi.com/squery-semantic-database-search
+  domain: blog.alchemyapi.com
+  image: ""
+- curated_id: 5bf56e26e83e422ee1b1bc166a886ef7
+  item_date: "2015-12-16 00:00:00"
+  title: 'Tools we use: Curator for Elasticsearch'
+  url: http://blog.postmarkapp.com/post/134799378298/tools-we-use-curator-for-elasticsearch#_=_
+  domain: blog.postmarkapp.com
+  image: ""
+- curated_id: 1b1c4fd149708ee3a596eb9662be2d94
+  item_date: "2016-01-05 00:00:00"
+  title: 'Article: Exposing the Lucene Library as a Microservice with Baratine'
+  url: http://www.infoq.com/articles/Building-a-Lucene-Microservice-with-Baratine
+  domain: www.infoq.com
+  image: ""
+- curated_id: 7a35b549e5fbbd4c9e615c768efd19bb
+  item_date: "2016-01-06 00:00:00"
+  title: New privacy-focused search engine promises to never sell or store your data
+  url: http://thenextweb.com/insider/2016/01/06/new-privacy-focused-search-engine-promises-to-never-sell-or-store-your-data/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 284f2906fb8ead14617ce1ccb51e5a8e
+  item_date: "2016-01-07 15:25:14"
+  title: instantsearch.js
+  url: https://community.algolia.com/instantsearch.js/
+  domain: community.algolia.com
+  image: ""
+- curated_id: d9245e3fd3bfc214c76bde02f08f2091
+  item_date: "2016-01-18 00:00:00"
+  title: Google Announces Retirement of Several Search APIs
+  url: http://www.programmableweb.com/news/google-announces-retirement-several-search-apis/2016/01/18
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 8cb14e86e86d236fe05704f0454ef43a
+  item_date: "2016-01-25 00:00:00"
+  title: Using Filebeat to Send ElasticSearch Logs to Logsene
+  url: https://dzone.com/articles/using-filebeat-to-send-elasticsearch-logs-to-logse-1
+  domain: dzone.com
+  image: ""
+- curated_id: 35bf920e9e5ae0d88a2da7570bb2c24a
+  item_date: "2016-01-26 00:00:00"
+  title: Building a better iStyles shopping experience with Algolia search
+  url: https://blog.algolia.com/building-a-better-istyles-shopping-experience-with-algolia-search/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: fe4fad139689d857e7388d6cd7d5fd84
+  item_date: "2016-02-01 14:25:03"
+  title: Introduction to Elasticsearch Scripting
+  url: http://okt.to/AE40R5
+  domain: okt.to
+  image: ""
+- curated_id: 473d1f28d317417625056a6f58e57b37
+  item_date: "2016-02-04 00:00:00"
+  title: Running High Performance and Fault Tolerant Elasticsearch Clusters on Docker
+  url: https://dzone.com/articles/running-high-performance-and-fault-tolerant-elasti-2
+  domain: dzone.com
+  image: ""
+- curated_id: 07bb0fa82ab37840e3da2fcb20839b87
+  item_date: "2016-02-09 00:00:00"
+  title: 'Solr vs Elasticsearch: Battle of The Query DSLs'
+  url: https://dzone.com/articles/solr-vs-elasticsearch-battle-of-the-query-dsls
+  domain: dzone.com
+  image: ""
+- curated_id: a213003474eed467ae1b6b5ab5cb4c3a
+  item_date: "2016-02-09 00:00:00"
+  title: 'Tools we use: Curator for Elasticsearch'
+  url: https://postmarkapp.com/blog/tools-we-use-curator-for-elasticsearch
+  domain: postmarkapp.com
+  image: ""
+- curated_id: 0e9368657ebb5b3c7e4066c9fe335d87
+  item_date: "2016-02-09 00:00:00"
+  title: Were Thrilled to Announce... Moz Local Insights Released from Beta!
+  url: https://moz.com/blog/moz-local-search-insights-announcement-part-2
+  domain: moz.com
+  image: ""
+- curated_id: 45bc0c0ef2729b0a30626c679f60a644
+  item_date: "2016-02-10 00:00:00"
+  title: 'Scaling Elasticsearch: Sharding and Availability for Millions of Documents'
+  url: https://dzone.com/articles/scaling-elasticsearch-sharding-and-availability-fo
+  domain: dzone.com
+  image: ""
+- curated_id: 995f048cf50b0542615e68feaa494d68
+  item_date: "2016-02-12 10:58:01"
+  title: A Laymans Visual Guide To Googles Knowledge Graph Search API
+  url: http://searchengineland.com/laymans-visual-guide-googles-knowledge-graph-search-api-241935
+  domain: searchengineland.com
+  image: ""
+- curated_id: 7c0bbd44e9943f4d41afd4fdc0724c26
+  item_date: "2016-02-25 09:03:17"
+  title: Geo-Search on steroid! | Milliseconds Matter
+  url: https://blog.algolia.com/geo-search-on-steroid/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: bc2baf7fcafaede3e2f1ba571930141b
+  item_date: "2016-03-01 00:00:00"
+  title: MongoDB Collection simplifies your search and visualization
+  url: http://www.searchblox.com/mongodb-collection-simplifies-your-search-and-visualization
+  domain: www.searchblox.com
+  image: ""
+- curated_id: dd815a482388463cdb9e40ea7bf4c1b1
+  item_date: "2016-03-07 00:00:00"
+  title: Apache Solr High Speed Data Integration Plugin
+  url: http://www.talend.com/blog/2016/03/07/apache-solr-high-speed-data-integration-plugin
+  domain: www.talend.com
+  image: ""
+- curated_id: 7e18a9e2445eb001a01a74f62d2fc816
+  item_date: "2016-03-09 00:00:00"
+  title: Retirement of certain Google search APIs
+  url: https://developers.googleblog.com/2016/01/retirement-of-certain-google-search-apis.html
+  domain: developers.googleblog.com
+  image: ""
+- curated_id: 282985a573815967f389bdbb1f2c38f0
+  item_date: "2016-03-11 00:00:00"
+  title: ElasticBox introduces ElasticKube to help manage Kubernetes within the enterprise
+  url: http://blog.kubernetes.io/2016/03/elasticbox-introduces-elastickube-to.html
+  domain: blog.kubernetes.io
+  image: ""
+- curated_id: 300754bd1dad99ad4390601337a195d0
+  item_date: "2016-03-16 00:00:00"
+  title: Estimating Costs of Storing Documents in Elasticsearch
+  url: https://dzone.com/articles/estimating-costs-of-storing-documents-in-elasticse
+  domain: dzone.com
+  image: ""
+- curated_id: b6e21032389198574e50f0605b3a46bf
+  item_date: "2016-03-17 00:00:00"
+  title: Microsoft Launches Dev Preview for New Bing Search APIs
+  url: http://www.programmableweb.com/news/microsoft-launches-dev-preview-new-bing-search-apis/brief/2016/03/17
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 1a6e2e0391768806507678f7930b0641
+  item_date: "2016-03-22 00:00:00"
+  title: Bing Webmaster API
+  url: https://msdn.microsoft.com/en-us/library/hh969349
+  domain: msdn.microsoft.com
+  image: ""
+- curated_id: 061aa49e42615429f06675c0fe4b5de8
+  item_date: "2016-03-22 00:00:00"
+  title: 'Moz Local Industry Report: Whos Winning Wireless Searches?'
+  url: https://moz.com/blog/moz-local-industry-report-whos-winning-wireless-searches
+  domain: moz.com
+  image: ""
+- curated_id: 3acf878c44a1c9f56be80593fc955924
+  item_date: "2016-04-02 00:00:00"
+  title: Reindexing Data With Elasticsearch
+  url: https://dzone.com/articles/reindexing-data-with-elasticsearch-1
+  domain: dzone.com
+  image: ""
+- curated_id: 5c975ebce4b89683aeede723d3786ac5
+  item_date: "2016-04-08 00:00:00"
+  title: Planning and Creating Azure Search Indexes
+  url: https://dzone.com/articles/planning-and-creating-azure-search-indexes
+  domain: dzone.com
+  image: ""
+- curated_id: 83154afb25682a85783e961aeafbd4ab
+  item_date: "2016-04-12 00:00:00"
+  title: Crawling a website with the SearchBlox API
+  url: http://www.searchblox.com/crawling-website-searchblox-api
+  domain: www.searchblox.com
+  image: ""
+- curated_id: ad021df4938deb8ddb06cf44a88ab746
+  item_date: "2016-04-19 00:00:00"
+  title: Amazon Kinesis Update ? Amazon Elasticsearch Service Integration,  Shard-Level
+    Metrics, Time-Based Iterators
+  url: https://aws.amazon.com/blogs/aws/amazon-kinesis-update-amazon-elasticsearch-service-integration-shard-level-metrics-time-based-iterators/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: a44768612907e0e56ec4ce1bbd05806f
+  item_date: "2016-04-27 00:00:00"
+  title: Solr 6, SolrCloud and SQL Queries
+  url: https://dzone.com/articles/solr-6-solrcloud-and-sql-queries-1
+  domain: dzone.com
+  image: ""
+- curated_id: 09e13a1fc2b4a3266c60d258668e3594
+  item_date: "2016-05-03 00:00:00"
+  title: 'Announcing Keyword Explorer: Mozs New Keyword Research Tool'
+  url: https://moz.com/blog/announcing-keyword-explorer-mozs-new-keyword-research-tool
+  domain: moz.com
+  image: ""
+- curated_id: 61a9a030c4805eeed799340e94634738
+  item_date: "2016-05-03 00:00:00"
+  title: How to Control Access to Your Amazon Elasticsearch Service Domain
+  url: https://blogs.aws.amazon.com/security/post/Tx3VP208IBVASUQ/How-to-Control-Access-to-Your-Amazon-Elasticsearch-Service-Domain
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: bc34e0f9db5735afd6f4e35fc170e6eb
+  item_date: "2016-05-03 00:00:00"
+  title: Google Search Appliance Connectors integrated with SearchBlox
+  url: http://www.searchblox.com/google-search-appliance-connector-integrated-searchblox
+  domain: www.searchblox.com
+  image: ""
+- curated_id: 1e454ac25dbe2dc43e8a6437c9ee7d64
+  item_date: "2016-05-05 00:00:00"
+  title: Introducing Omnisearch
+  url: https://blog.twitter.com/2016/introducing-omnisearch
+  domain: blog.twitter.com
+  image: ""
+- curated_id: aa1405eb765b7ed495eff79a60a79950
+  item_date: "2016-05-06 00:00:00"
+  title: Reducing precision in custom ranking values
+  url: https://blog.algolia.com/reducing-precision-custom-ranking-values/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: 72345e727af43b4ffc0289bad52e54f1
+  item_date: "2016-05-10 00:00:00"
+  title: An Exploration of Podcasting SEO in 2016
+  url: https://moz.com/blog/a-look-at-podcasting-seo-in-2016
+  domain: moz.com
+  image: ""
+- curated_id: 8972f0aff5eb1cf938a50dadd49588ce
+  item_date: "2016-05-10 00:00:00"
+  title: Introducing Improved User Search Functionality in the IAM Console
+  url: https://blogs.aws.amazon.com/security/post/Tx2GTHP2XG5MH7T/Introducing-Improved-User-Search-Functionality-in-the-IAM-Console
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: ea07ea5ac41f56c48c2283de38db5704
+  item_date: "2016-05-11 00:00:00"
+  title: 'Moz Local: Fixing the Accuracy Pain Point'
+  url: https://moz.com/blog/moz-local-dashboard-updates
+  domain: moz.com
+  image: ""
+- curated_id: 529d1066fe0508b63eac5ad641c08fbf
+  item_date: "2016-05-16 00:00:00"
+  title: Search your knowledge base quickly and easily with Algolia for Zendesk
+  url: https://blog.algolia.com/search-your-kb-quickly-easily-algolia-zendesk/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: 1c7edfb88e90327e63bbfd79f6a58d84
+  item_date: "2016-05-18 00:00:00"
+  title: An Introduction to Elasticsearch
+  url: https://dzone.com/articles/an-introduction-to-elasticsearch
+  domain: dzone.com
+  image: ""
+- curated_id: 51bff0647abd08a548e6e95caa4e98c2
+  item_date: "2016-05-25 00:00:00"
+  title: Inside the Algolia engine part 3?query processing
+  url: https://blog.algolia.com/inside-the-algolia-engine-part-3-query-processing/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: 097bf1e53468fb8095e6f76e2733ff2d
+  item_date: "2016-05-25 00:00:00"
+  title: 'Search Technology: Behind the Scenes'
+  url: https://blog.octopart.com/archives/2016/05/search-technology-behind-the-scenes-1
+  domain: blog.octopart.com
+  image: ""
+- curated_id: 442dc204e93ecb6123c0cecc2de9dd22
+  item_date: "2016-06-03 00:00:00"
+  title: Sourcegraph for GitHub ? Browse and search GitHub like an IDE
+  url: https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack
+  domain: chrome.google.com
+  image: ""
+- curated_id: 79c09936e038501f176ac89a9a2abd55
+  item_date: "2016-06-06 00:00:00"
+  title: Amazon Search Outage Offers Two Lessons
+  url: https://dzone.com/articles/amazon-search-outage-offers-two-lessons
+  domain: dzone.com
+  image: ""
+- curated_id: 4196cf0984e0914320df65a58fc53356
+  item_date: "2016-06-07 00:00:00"
+  title: Elastic Query in Azure SQL Database and Views
+  url: https://dzone.com/articles/elastic-query-in-azure-sql-database-and-views
+  domain: dzone.com
+  image: ""
+- curated_id: 25578e17a6d7654087e18ff6cfc7d34f
+  item_date: "2016-06-13 00:00:00"
+  title: How Algolia Increased TradePub.com?s Search Conversions by 70%
+  url: https://blog.algolia.com/how-algolia-increased-tradepub-coms-search-conversions-by-70/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: f2906ecfecd5856fb2a7bc5d25abcfb0
+  item_date: "2016-06-15 00:00:00"
+  title: Algolia Places ? Intelligent address autocomplete for any &lt;input&gt;
+  url: https://community.algolia.com/places/
+  domain: community.algolia.com
+  image: ""
+- curated_id: 3198015cabeff7d174bb51e56f96cefd
+  item_date: "2016-06-15 00:00:00"
+  title: Introducing Algolia Places
+  url: https://blog.algolia.com/introducing-algolia-places/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: 95e810cb24e2eb083d452c6cc430d494
+  item_date: "2016-06-21 00:00:00"
+  title: 'Apache Solr vs Elasticsearch: The Feature Smackdown'
+  url: http://techutils.in/2016/06/21/apache-solr-vs-elasticsearch-the-feature-smackdown/
+  domain: techutils.in
+  image: ""
+- curated_id: 93b4d0efcb50e120b6c2ebd18d64a86c
+  item_date: "2016-06-22 00:00:00"
+  title: Developers Choices Are Few When it Comes to Web Search APIs
+  url: http://www.programmableweb.com/news/developers-choices-are-few-when-it-comes-to-web-search-apis/analysis/2016/06/22
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: e106e02bf78f80eaf4041db297b99c05
+  item_date: "2016-06-22 00:00:00"
+  title: 'Google vs. Microsoft Bing Search APIs: A Detailed Comparison'
+  url: http://www.programmableweb.com/news/google-vs.-microsoft-bing-search-apis-detailed-comparison/analysis/2016/06/22
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: de81aeace1bc5382a7d7cb8feafb5821
+  item_date: "2016-06-23 00:00:00"
+  title: IP and User Agent Lookup API Search Tool (Search)
+  url: https://codecanyon.net/item/ip-and-user-agent-lookup-api-search-tool/16750113
+  domain: codecanyon.net
+  image: ""
+- curated_id: 1356463bd493fb9c2c0f861ea0500aa6
+  item_date: "2016-06-24 00:00:00"
+  title: Running Elasticsearch on AWS
+  url: https://dzone.com/articles/running-elasticsearch-on-aws
+  domain: dzone.com
+  image: ""
+- curated_id: 291e8f3fd225afc5e15936b8a1b495cd
+  item_date: "2016-06-24 00:00:00"
+  title: Uncoiling the Data in DNA With Elasticsearch
+  url: https://dzone.com/articles/uncoiling-the-data-in-dna-with-elasticsearch
+  domain: dzone.com
+  image: ""
+- curated_id: 8927bff85b8a78ad9f8db68d05e229c9
+  item_date: "2016-07-01 00:00:00"
+  title: New Bing APIs now available for purchase
+  url: https://blogs.msdn.microsoft.com/bingdevcenter/2016/07/01/bing-apis-now-available-for-purchase/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: 7d3384a35e49543dd2fbec55246619be
+  item_date: "2016-07-01 00:00:00"
+  title: Google Site Search vs. SearchBlox Cloud Search
+  url: http://www.searchblox.com/google-site-search-vs-searchblox-cloud-search
+  domain: www.searchblox.com
+  image: ""
+- curated_id: 70f8135787d3a049c41c2a94bdf89755
+  item_date: "2016-07-01 00:00:00"
+  title: Using Google Tag Manager to Dynamically Generate Schema/JSON-LD Tags
+  url: https://moz.com/blog/using-google-tag-manager-to-dynamically-generate-schema-org-json-ld-tags
+  domain: moz.com
+  image: ""
+- curated_id: d319f9c17c915c1fcb650918113d21dc
+  item_date: "2016-07-02 00:00:00"
+  title: Business Data Spider
+  url: https://codecanyon.net/item/business-data-spider/16852865
+  domain: codecanyon.net
+  image: ""
+- curated_id: a6279a307bb6b47814475ebdc45c207a
+  item_date: "2016-07-11 00:00:00"
+  title: Couchbase PHP SDK 2.2.0 ? Example With Full Text Search
+  url: https://dzone.com/articles/php-sdk-220-example-with-full-text-search
+  domain: dzone.com
+  image: ""
+- curated_id: c644b07ed9e25c5375ddc3239bf8d7d2
+  item_date: "2016-07-13 00:00:00"
+  title: Getting started with Elasticsearch and Node.js - Part 3
+  url: https://www.compose.com/articles/getting-started-with-elasticsearch-and-node-js-part-3/
+  domain: www.compose.com
+  image: ""
+- curated_id: 687e74e4bec0d3564b22524c2aa18bce
+  item_date: "2016-07-21 00:00:00"
+  title: RethinkDB Joinery
+  url: https://www.compose.com/articles/rethinkdb-joinery/
+  domain: www.compose.com
+  image: ""
+- curated_id: 471bdd1b2fec8ba6b96c2e1d565e9f25
+  item_date: "2016-07-26 00:00:00"
+  title: Local Google Results Scraper
+  url: https://codecanyon.net/item/local-google-results-scraper-php-class/17195769
+  domain: codecanyon.net
+  image: ""
+- curated_id: a00c793e8810c04d01781edeb54c1c5a
+  item_date: "2016-08-04 00:00:00"
+  title: How to search in Slack
+  url: https://medium.com/m/global-identity
+  domain: medium.com
+  image: ""
+- curated_id: 3ee65b8bcfd5dd0a71b0df07a39af3f4
+  item_date: "2016-08-04 00:00:00"
+  title: How To Implement Product Search by URL
+  url: http://www.indix.com/blog/developer/how-to-implement-product-search-by-url/
+  domain: www.indix.com
+  image: ""
+- curated_id: 409d114f2ccabcbe6e2e9c15ad2c8e4c
+  item_date: "2016-08-05 00:00:00"
+  title: 'Behind the Scenes: Algolia Places'
+  url: https://blog.algolia.com/behind-the-scenes-algolia-places/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: 50690ac8b534ae7e6a23872db05671c7
+  item_date: "2016-08-09 00:00:00"
+  title: July 2016 Crawl Archive Now Available
+  url: http://commoncrawl.org/2016/08/july-2016-crawl-archive-now-available/
+  domain: commoncrawl.org
+  image: ""
+- curated_id: 7799509eb863c4028a56554ea93a09a9
+  item_date: "2016-08-15 00:00:00"
+  title: Search Relevance Infrastructure at Twitter
+  url: https://blog.twitter.com/2016/search-relevance-infrastructure-at-twitter
+  domain: blog.twitter.com
+  image: ""
+- curated_id: 3aeb35eea8134821d1f089811df27cde
+  item_date: "2016-08-28 00:00:00"
+  title: Scaling Elasticsearch
+  url: https://dzone.com/articles/scaling-elasticsearch
+  domain: dzone.com
+  image: ""
+- curated_id: 1cf8187a25031a7f9070f490762f8efc
+  item_date: "2016-08-29 00:00:00"
+  title: Real-Time Search
+  url: http://blog.itrp.com/2016/08/real-time-search.html
+  domain: blog.itrp.com
+  image: ""
+- curated_id: 42fa5e8a4cf71ec370723cc65ab15904
+  item_date: "2016-09-01 00:00:00"
+  title: 'Solr Enterprise Search: Lucene and Solr 6.2'
+  url: https://dzone.com/articles/solr-enterprise-search-lucene-and-solr-62
+  domain: dzone.com
+  image: ""
+- curated_id: dad0602e64d4115e8b3bf30733136176
+  item_date: "2016-09-13 00:00:00"
+  title: Composes Data Browser comes to Elasticsearch
+  url: https://www.compose.com/articles/composes-data-browser-comes-to-elasticsearch/
+  domain: www.compose.com
+  image: ""
+- curated_id: b9de9d937149dcd7e7d8b9265b6dba32
+  item_date: "2016-09-16 00:00:00"
+  title: August 2016 Crawl Archive Now Available
+  url: http://commoncrawl.org/2016/09/august-2016-crawl-archive-now-available/
+  domain: commoncrawl.org
+  image: ""
+- curated_id: a1077e84dd0916456dd63c1a28b4bc9d
+  item_date: "2016-09-16 00:00:00"
+  title: Data Sets Containing Robots.txt Files and Non-200 Responses
+  url: http://commoncrawl.org/2016/09/robotstxt-and-404-redirect-data-sets/
+  domain: commoncrawl.org
+  image: ""
+- curated_id: 637d8b31accd89c0692abe87ec178e47
+  item_date: "2016-09-19 00:00:00"
+  title: Google Is Grouping Keyword Volumes - What Does This Mean for SEO?
+  url: https://moz.com/blog/google-grouping-keyword-volumes-what-does-this-mean-for-seo
+  domain: moz.com
+  image: ""
+- curated_id: f4c9c78d3e7395803f1df82fc24f5dc9
+  item_date: "2016-09-21 00:00:00"
+  title: How to Fix Crawl Errors in Google Search Console
+  url: https://moz.com/blog/how-to-fix-crawl-errors-in-google-search-console
+  domain: moz.com
+  image: ""
+- curated_id: e86e2d2ea1be8298376bd2ed2450cb6d
+  item_date: "2016-09-26 00:00:00"
+  title: Searching YouTube videos from SearchBlox
+  url: http://www.searchblox.com/searching-youtube-videos-searchblox
+  domain: www.searchblox.com
+  image: ""
+- curated_id: 5f259f8c25a9ec01219bc3d175e973ee
+  item_date: "2016-10-03 00:00:00"
+  title: Getting Started With ElasticSearch
+  url: http://www.c-sharpcorner.com/article/getting-started-with-elasticsearch/
+  domain: www.c-sharpcorner.com
+  image: ""
+- curated_id: b26611abd194433cb5dd2553f9faa2ba
+  item_date: "2016-10-04 00:00:00"
+  title: 'SEO Trek: The Search for Google RankBrain* [New Data]'
+  url: https://moz.com/blog/seo-trek-the-search-for-google-rankbrain-new-data
+  domain: moz.com
+  image: ""
+- curated_id: 3c493512358222a47c8d0e7ed7b7c301
+  item_date: "2016-10-07 00:00:00"
+  title: September 2016 Crawl Archive Now Available
+  url: http://commoncrawl.org/2016/10/september-2016-crawl-archive-now-available/
+  domain: commoncrawl.org
+  image: ""
+- curated_id: b8e3e513fee14e485a15945ebdd260d7
+  item_date: "2016-10-11 00:00:00"
+  title: Powerful and feature-rich Search APIs for Android apps
+  url: https://community.havenondemand.com/t5/Blog/Powerful-and-feature-rich-Search-APIs-for-Android-apps/ba-p/3273
+  domain: community.havenondemand.com
+  image: ""
+- curated_id: f241bb5d724deeaf8ad7df858a221ed3
+  item_date: "2016-10-14 00:00:00"
+  title: Secure Apache Solr Collections and Access Them Programmatically
+  url: https://dzone.com/articles/how-to-secure-apache-solr-collections-and-access-t
+  domain: dzone.com
+  image: ""
+- curated_id: 08925e3e299660e5197725cf19e5c796
+  item_date: "2016-10-17 00:00:00"
+  title: Access Solr data from SearchBlox using Database Collection
+  url: http://www.searchblox.com/access-solr-data-searchblox-using-database-collection
+  domain: www.searchblox.com
+  image: ""
+- curated_id: d55043ae6d8ea8d7d02aaf1dfc2579c2
+  item_date: "2016-10-17 00:00:00"
+  title: How to Use Search Analytics in Google Sheets for Better SEO Insights
+  url: https://moz.com/blog/how-to-use-search-analytics-in-google-sheets-for-better-seo-insights
+  domain: moz.com
+  image: ""
+- curated_id: d39572bd8bef9e118a03ed5a4ce5ff36
+  item_date: "2016-10-18 00:04:15"
+  title: 'B2B Search That Doesn?t Suck: Integrating Algolia Into Your eCommerce Application'
+  url: https://medium.com/@OrderCloudIO/b2b-search-that-doesnt-suck-integrating-algolia-into-your-ecommerce-application-aab876eea394#.ej85aogx8
+  domain: medium.com
+  image: ""
+- curated_id: 0422ad70afdee51b218f9b0bf413993f
+  item_date: "2016-10-21 00:00:00"
+  title: 'Searching CamelCased parameters in API documentation: how we handled it'
+  url: https://blog.algolia.com/searching-camelcased-parameters-in-api-documentation-how-we-handled-it/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: c72445802bce9589b9a60ad1e894466f
+  item_date: "2016-11-01 00:00:00"
+  title: Bringing Algolia?s search-as-you-type experience to Shopify stores
+  url: https://blog.algolia.com/bringing-algolias-search-as-you-type-experience-to-shopify-stores/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: f3929f97758d12aa839d91a0fa3addfb
+  item_date: "2016-11-03 00:00:00"
+  title: Comparing searches at the DNC and RNC
+  url: https://engineeringblog.yelp.com/2016/11/comparing-searches-at-the-dnc-and-rnc.html
+  domain: engineeringblog.yelp.com
   image: ""
 ...
